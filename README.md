@@ -24,15 +24,15 @@ The dashboard is broken down into three categories - Match Statistics, Player St
 ## Files Included
 The following files are included in this project:
 
-1. 'matches.csv' - Contains match-level information for each and every match held in IPL from 2008 to 2017.
-2. deliveries.csv - Contains ball-by-ball information for each of the matches.
-3. IPL_Statistics_Dashboard.twbx - Tableau workbook containing three dashboards with the visualizations for the different sub-categories of Match Statistics, Player Statistics, and Team Statistics.
-4. IPL_Statistics_Dashboard.pptx - PowerPoint file containing a summary of the entire visual analysis for this project with the necessary insights and details.
+1. **'matches.csv'** - Contains match-level information for each and every match held in IPL from 2008 to 2017.
+2. **'deliveries.csv'** - Contains ball-by-ball information for each of the matches.
+3. **'IPL_Statistics_Dashboard.twbx'** - Tableau workbook containing three dashboards with the visualizations for the different sub-categories of Match Statistics, Player Statistics, and Team Statistics.
+4. **'IPL_Statistics_Dashboard.pptx'** - PowerPoint file containing a summary of the entire visual analysis for this project with the necessary insights and details.
 
 ## Instructions to Run the Project
 1. Download or clone the repository to your local system.
 2. Install Tableau Desktop on your system if you do not have it already.
-3. Open IPL_Statistics_Dashboard.twbx in Tableau Desktop.
+3. Open **'IPL_Statistics_Dashboard.twbx'** in Tableau Desktop.
 4. The dashboards are already built, and the visualizations are created. You can interact with them to explore the data further.
 5. You can also make changes to the visualizations as per your preferences.
 6. To view the summary of the entire analysis, open IPL_Statistics_Dashboard.pptx in PowerPoint.
